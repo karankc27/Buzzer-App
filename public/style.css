@@ -125,8 +125,8 @@ button:focus {
 }
 
 .buzzer {
-  height: 10em;
-  font-size: 2em;
+  height: 5em;
+  font-size: 1em;
   /* background-color: rgb(243, 175, 185); */
   background-color: #161D99;
   color: #fff;
@@ -136,7 +136,7 @@ button:focus {
 }
 .buzzer:hover,
 .buzzer:active {
-  background-color: #2c4bff;
+  background-color: red;
 }
 
 .secondary {
