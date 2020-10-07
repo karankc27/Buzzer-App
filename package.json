@@ -1,0 +1,25 @@
+{
+  "name": "mpl-buzzer",
+  "version": "1.0.0",
+  "description": "A buzzer webapp for MPL",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4",
+    "socketio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshat112/MPL-Quiz-Buzzer.git"
+  },
+  "author": "Akshat Bhanchawat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshat112/MPL-Quiz-Buzzer/issues"
+  },
+  "homepage": "https://github.com/akshat112/MPL-Quiz-Buzzer#readme"
+}
